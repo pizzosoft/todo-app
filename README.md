@@ -9,5 +9,11 @@ NodeJS and Java with Quarkus
 ### Backend NojeJS
 [repository](https://github.com/pizzosoft/todo-app/tree/main/backend-nodejs)
 
+VSCode was used for the project with NodeJS.
+[NodeJS](https://nodejs.org/en/)
+
 ### Backend Java Quarkus
 [repository](https://github.com/pizzosoft/todo-app/tree/main/backend-quarkus) 
+
+Intellij was used for the project with Java and Quarkus.
+[Quarkus](https://quarkus.io)
